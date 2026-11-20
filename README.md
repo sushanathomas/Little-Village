@@ -12,12 +12,12 @@ In the future, Little Village may also support nonprofit organizations and commu
 
 ## Technologies
 
-- HTML5
 - CSS3
 - JavaScript
+- EJS
 - Node.js
 - Express.js
-- MongoDB (planned)
+- MongoDB / Mongoose
 
 ## MVP Features
 
