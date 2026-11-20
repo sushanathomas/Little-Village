@@ -42,5 +42,4 @@ Setup instructions will be added as the backend is implemented.
 In development — Demo Day project.
 
 ## Author
-
 Sushana Thomas
