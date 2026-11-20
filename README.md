@@ -1,3 +1,4 @@
+...In progress (site not fully available at this moment)
 
 # Little Village 🧸
 
