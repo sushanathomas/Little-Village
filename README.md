@@ -1,5 +1,3 @@
-...In progress (site not fully available at this moment)
-
 # Little Village 🧸
 
 Little Village is a full-stack community marketplace designed to help families from lower-income communities access free children's essentials.
